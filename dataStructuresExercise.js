@@ -89,4 +89,3 @@ console.log(starWarsMovies);
 // starWarsMovies.splice(1, 0, ["Solo", "Rogue One"]);
 // console.log(starWarsMovies);
 
-console.log("Hello");
